@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/hashmarket/static/css/main.b5865247.css",
-    "main.js": "/hashmarket/static/js/main.3a483b98.js",
+    "main.css": "/hashmarket/static/css/main.85ac5a2c.css",
+    "main.js": "/hashmarket/static/js/main.1e7a260e.js",
     "index.html": "/hashmarket/index.html",
-    "main.b5865247.css.map": "/hashmarket/static/css/main.b5865247.css.map",
-    "main.3a483b98.js.map": "/hashmarket/static/js/main.3a483b98.js.map"
+    "main.85ac5a2c.css.map": "/hashmarket/static/css/main.85ac5a2c.css.map",
+    "main.1e7a260e.js.map": "/hashmarket/static/js/main.1e7a260e.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5865247.css",
-    "static/js/main.3a483b98.js"
+    "static/css/main.85ac5a2c.css",
+    "static/js/main.1e7a260e.js"
   ]
 }
